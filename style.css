@@ -1,0 +1,57 @@
+.main-col-bg{
+    background-color: rgb(91, 187, 243) !important;
+    color: #ffffff !important;
+}
+  
+.breadcrumb{
+    color: #333333;
+    background-color: #cccccc;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.head-bg {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+
+.dropdown {
+    padding: 10px;
+}
+
+.breadcrumb a{
+    color: #333333;
+}
+
+i{
+    padding: 6px;
+}
+
+.badge {
+    margin-left: 100px;
+}
+
+.progress-bar {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+.card-center {
+    text-align: center;
+}
+
+.space{
+    margin-top: 20px;
+}
+
+.bi-gear-fill{
+    width: 24px;
+    height: 24px;
+}
+
+#footer{
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
